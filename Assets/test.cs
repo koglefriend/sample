@@ -9,6 +9,8 @@ public class test : MonoBehaviour {
 		Debug.Log("A");
 		Debug.Log("y");
 		Debug.Log("C");
+		Debug.Log("D");
+
 	
 	}
 	
