@@ -11,6 +11,8 @@ public class test : MonoBehaviour {
 		Debug.Log("C");
 		Debug.Log("D");
 		Debug.Log("E");
+		Debug.Log("F");
+		Debug.Log("G");
 	
 	}
 	
