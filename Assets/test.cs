@@ -6,11 +6,14 @@ public class test : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+		// Debug thing
 		Debug.Log("A");
-		Debug.Log("y");
+		Debug.Log("B");
 		Debug.Log("C");
 		Debug.Log("D");
-
+		Debug.Log("E");
+		Debug.Log("F");
+		Debug.Log("G");
 	
 	}
 	
