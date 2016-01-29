@@ -6,6 +6,7 @@ public class test : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+		// Debug thing
 		Debug.Log("A");
 		Debug.Log("y");
 		Debug.Log("C");
